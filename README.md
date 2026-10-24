@@ -1,16 +1,27 @@
-## Hi there 👋
+## ES
+👋 Sobre mí: Estudiante bilingüe (Inglés nativo 🇬🇧 / Español 🇪🇸) de Ingeniería Multimedia en la UA 🏫.
 
-<!--
-**slg71/slg71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Objetivo: Rol Junior como Desarrollador Multimedia, Full-Stack, Frontend o Game Developer.
 
-Here are some ideas to get you started:
+💡 Perfil: Versátil, organizado y proactivo. Experiencia en metodologías ágiles, bases de datos y trabajo en equipo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Pasión: Gráficos 2D/3D, tecnología y diseño de experiencias interactivas.
+
+## EN
+👋 About me: Bilingual (Native English 🇬🇧 / Spanish 🇪🇸) Multimedia Engineering student at UA 🏫.
+
+🎯 Goal: Junior role as a Multimedia, Full-Stack, Frontend, or Game Developer.
+
+💡 Profile: Versatile, organized, and proactive team player with experience in agile methodologies and databases.
+
+🚀 Passion: 2D/3D graphics, tech, and building interactive experiences.
+
+## Herramientas/Tools:
+🔭 Working on / Trabajando en: TFG (2D narrative adaptive videogame - Unity) & Scenery (Interactive 3D web platform for stage design).
+
+🌱 Learning / Aprendiendo: Modular architectures (Unity/C#), 3D Web Graphics (Three.js/WebGL), and Backend Infra (Node.js, PostgreSQL, OpenStack).
+
+📫 Contact / Contacto: garrettleigh.work@gmail.com | 💼 LinkedIn | 🌐 (Portfolio in dev)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,html,css,opengl,latex,unity,threejs,react,nodejs,wordpress,blender,git,github,vs,vscode" alt="Tools" />
+</p>
